@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.DataAccessLayer\bin\Debug\CSharpEgitimKampi.DataAccessLayer.dll.config
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.DataAccessLayer\bin\Debug\CSharpEgitimKampi.DataAccessLayer.dll
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.DataAccessLayer\bin\Debug\CSharpEgitimKampi.DataAccessLayer.pdb
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.DataAccessLayer\bin\Debug\CSharpEgitimKampi.EntityLayer.dll
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.DataAccessLayer\bin\Debug\CSharpEgitimKampi.EntityLayer.pdb
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.DataAccessLayer\bin\Debug\CSharpEgitimKampi.EntityLayer.dll.config
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.DataAccessLayer\obj\Debug\CSharpEgitimKampi.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.DataAccessLayer\obj\Debug\CSharpEgitimKampi.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.DataAccessLayer\obj\Debug\CSharpEg.8FA3DABB.Up2Date
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.DataAccessLayer\obj\Debug\CSharpEgitimKampi.DataAccessLayer.dll
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.DataAccessLayer\obj\Debug\CSharpEgitimKampi.DataAccessLayer.pdb
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.DataAccessLayer\obj\Debug\CSharpEgitimKampi.DataAccessLayer.Migrations.mig1.resources
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.DataAccessLayer\obj\Debug\CSharpEgitimKampi.DataAccessLayer.csproj.GenerateResource.cache

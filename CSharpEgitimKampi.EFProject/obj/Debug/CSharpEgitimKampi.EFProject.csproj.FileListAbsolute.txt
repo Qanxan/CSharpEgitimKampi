@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EFProject\bin\Debug\CSharpEgitimKampi.EFProject.exe.config
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EFProject\bin\Debug\CSharpEgitimKampi.EFProject.exe
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EFProject\bin\Debug\CSharpEgitimKampi.EFProject.pdb
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EFProject\obj\Debug\CSharpEgitimKampi.EFProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EFProject\obj\Debug\CSharpEgitimKampi.EFProject.Form1.resources
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EFProject\obj\Debug\CSharpEgitimKampi.EFProject.Properties.Resources.resources
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EFProject\obj\Debug\CSharpEgitimKampi.EFProject.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EFProject\obj\Debug\CSharpEgitimKampi.EFProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EFProject\obj\Debug\CSharpEgitimKampi.EFProject.exe
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EFProject\obj\Debug\CSharpEgitimKampi.EFProject.pdb
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EFProject\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EFProject\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EFProject\obj\Debug\CSharpEg.A33A2202.Up2Date
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EFProject\obj\Debug\CSharpEgitimKampi.EFProject.FrmLocation.resources

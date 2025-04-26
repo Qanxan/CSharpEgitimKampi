@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EntityLayer\bin\Debug\CSharpEgitimKampi.EntityLayer.dll.config
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EntityLayer\bin\Debug\CSharpEgitimKampi.EntityLayer.dll
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EntityLayer\bin\Debug\CSharpEgitimKampi.EntityLayer.pdb
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EntityLayer\obj\Debug\CSharpEgitimKampi.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EntityLayer\obj\Debug\CSharpEgitimKampi.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EntityLayer\obj\Debug\CSharpEg.B5FF0018.Up2Date
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EntityLayer\obj\Debug\CSharpEgitimKampi.EntityLayer.dll
+C:\Users\ASUS\source\repos\CSharpEgitimKampi\CSharpEgitimKampi.EntityLayer\obj\Debug\CSharpEgitimKampi.EntityLayer.pdb
